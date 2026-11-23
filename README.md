@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Sangheon Park 🎶</h1>
+<h1 align="center">Hi, I'm Sangheon (Michael) Park 🎶</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=6A5ACD&center=true&vCenter=true&width=620&lines=Music+Information+Retrieval;Recommendation+Systems;Human%E2%80%93AI+Interaction" alt="Research interests: Music Information Retrieval, Recommendation Systems, Human–AI Interaction" />
@@ -62,3 +62,12 @@ I'm a music technology researcher working at the intersection of **music informa
   <img src="https://img.shields.io/badge/Max%2FMSP-555555?style=flat" alt="Max/MSP" />
   <img src="https://img.shields.io/badge/Ableton%20Live-000000?style=flat" alt="Ableton Live" />
 </p>
+
+### 🎧 Music Recommendation (From Me)
+
+- **ODYSSÉE**, L'Impératrice · [▶️](https://www.youtube.com/results?search_query=L%27Imp%C3%A9ratrice+Odyss%C3%A9e)
+- **World's End Rhapsody**, Nujabes · [▶️](https://www.youtube.com/results?search_query=Nujabes+World%27s+End+Rhapsody)
+- **IknowhowIfeel**, Parcels · [▶️](https://www.youtube.com/results?search_query=Parcels+IknowhowIfeel)
+- **Squall**, Pasteboard · [▶️](https://www.youtube.com/results?search_query=Pasteboard+Squall)
+- **Starship Syncopation**, Cory Wong · [▶️](https://www.youtube.com/results?search_query=Cory+Wong+Starship+Syncopation)
+- **Feel Good Inc.**, Gorillaz · [▶️](https://www.youtube.com/results?search_query=Gorillaz+Feel+Good+Inc.)
