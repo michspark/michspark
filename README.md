@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Sangheon Park 🎶</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=6A5ACD&center=true&vCenter=true&width=620&lines=Music+Information+Retrieval;Recommendation+Systems;Human%E2%80%93AI+Interaction;Pansori+%C3%97+Machine+Learning" alt="Research interests: Music Information Retrieval, Recommendation Systems, Human–AI Interaction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=6A5ACD&center=true&vCenter=true&width=620&lines=Music+Information+Retrieval;Recommendation+Systems;Human%E2%80%93AI+Interaction" alt="Research interests: Music Information Retrieval, Recommendation Systems, Human–AI Interaction" />
 </p>
 
 <p align="center">
