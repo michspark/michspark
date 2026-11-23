@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Sangheon (Michael) Park 🎶</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=6A5ACD&center=true&vCenter=true&width=620&lines=Music+Information+Retrieval;Recommendation+Systems;Human%E2%80%93AI+Interaction" alt="Research interests: Music Information Retrieval, Recommendation Systems, Human–AI Interaction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=6A5ACD&center=true&vCenter=true&width=620&lines=Converting+coffee+into+spectrograms+%E2%98%95%E2%86%92%F0%9F%93%88;Loss+going+down%2C+playlist+going+up+%F0%9F%93%89%F0%9F%8E%B6;Currently+overfitting+to+lo-fi+beats+%F0%9F%8E%A7;Looking+for+a+PhD+home+%F0%9F%8F%A0+(I+bring+snacks+%F0%9F%8D%AA)" alt="Converting coffee into spectrograms · Loss going down, playlist going up · Currently overfitting to lo-fi beats · Looking for a PhD home (I bring snacks)" />
 </p>
 
 <p align="center">
